@@ -1,3 +1,5 @@
+//This method has linear time complexity because we are using inbuilt js functions like shift and all
+
 class Queue {
   constructor() {
     this.items = [];
